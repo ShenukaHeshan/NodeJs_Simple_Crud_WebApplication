@@ -1,0 +1,1 @@
+This is a simple CRUD web application. I used Node.js and MySQL for this project.
